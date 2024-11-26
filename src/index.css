@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+  font-family: "Poppins", sans-serif;
+}
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(44, 44, 44, 0.863) !important;
+  background-image: url('./assets/images/cal-bac.jpg');
+  background-blend-mode:multiply;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
